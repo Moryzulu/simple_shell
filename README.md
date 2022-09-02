@@ -8,7 +8,7 @@ Group project
 Syscall
  By: Julien Barbier
  Weight: 10
- Project to be done in teams of 2 people (your team: Memory Zulu, Zekarias Hurisa)
+ Project to be done in teams of 2 people (your team: Memory Zulu, Zekarias Nigusie)
  Project will start Aug 24, 2022 5:00 AM, must end by Sep 8, 2022 5:00 AM
  will be released at Sep 7, 2022 12:12 AM
  An auto review will be launched at the deadline
