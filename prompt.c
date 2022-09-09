@@ -9,8 +9,8 @@ int main(void)
 {
 	char *input;
 	size_t size;
-
-	printf("&");
+	
+	printf("#");
 	input = (char *) malloc(size);
 	getline(&input, &size, stdin);
 
