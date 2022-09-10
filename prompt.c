@@ -2,6 +2,7 @@
 #include <stdlib.h>
 /**
  * main - void
+ * @void: no arguments
  *
  * Return: void
  */
